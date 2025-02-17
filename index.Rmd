@@ -72,8 +72,8 @@ body {
 |-----------|--------|------------------------------|-----------------------|
 |*ECO 2301*|In-person|***Monday - 11:30 AM - 12:30 PM***|***S405***|
 |*ECO 2301*|In-person|***Wednesday - 10:00 AM - 11:00 AM ***|***S405***|
-|*ECO 2301*|Virtual (Zoom)|***Tuesday - 8:00 PM to 9:00 PM***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code:723316***|
-|*ECO 2301*|Virtual (Zoom)|***Based on your own requests (You can request a virtual SI Session via this [Request Virtual SI Session Form](https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/#4_Request_Virtual_SI_Session_Form_2025))***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code:723316***|
+|*ECO 2301*|Virtual (Zoom)|***Tuesday - 8:00 PM to 9:00 PM***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
+|*ECO 2301*|Virtual (Zoom)|***Based on your own requests (You can request a virtual SI Session via this [Request Virtual SI Session Form](https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/#4_Request_Virtual_SI_Session_Form_2025))***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
 
 # ***II. ACADEMIC ACTIVITIES***
 ## **1. Honors Program**
