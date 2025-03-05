@@ -71,9 +71,9 @@ body {
 
 |**Courses**|**Format**|**Time**|**Locations/Link**|
 |-----------|--------|------------------------------|-----------------------|
-|*ECO 2301*|Virtual|***Friday(2/28) - 7:00 PM - 9:00 PM***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
-|*ECO 2301*|Virtual|***Monday(3/3) - 7:00 PM - 9:00 PM ***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
-|*ECO 2301*|Hybrid (Zoom and In-person)|***Wednesday - 1:00 PM to 3:00 PM***|***S405 and [Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
+|*ECO 2301*|Virtual|***Thursday(3/6) - 7:00 PM - 9:00 PM***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
+|*ECO 2301*|Virtual|***Friday(3/7) - 7:00 PM - 9:00 PM ***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
+|*ECO 2301*|Hybrid (Zoom and In-person)|***Wednesday (3/3) - 1:00 PM to 3:00 PM***|***S405 and [Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
 |*ECO 2301*|Virtual (Zoom)|***Based on your own requests (You can request a virtual SI Session via this [Request Virtual SI Session Form](https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/#4_Request_Virtual_SI_Session_Form_2025))***|***[Zoom link](https://uhd.zoom.us/j/6239114638) - Pass code: Quang***|
 
 # ***II. ACADEMIC ACTIVITIES***
